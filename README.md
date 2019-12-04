@@ -98,7 +98,7 @@ Not my business. I peddle tips, can't harm in any case (liability excluded).
 
 ## when commenting
 
-- **GOOD** Empathy, respect. Imagine you're sitting next to the OP and tell him your comment. Helps me to remain respectful and empathetic, especially when you find yourself locked in a world view that suggests, that you have to convey criticism. Sometimes people including myself seem to forget that even SO is a sort of communication platform, not just a place where some entities just throw information at each other ("A?" "B!").
+- **GOOD** Empathy, respect. Imagine you're sitting next to the OP and tell him your comment. Helps me to remain respectful and empathetic, especially when you find yourself locked in a world view that suggests, that you have to convey criticism. Sometimes people including myself seem to forget that even SO is a sort of communication platform, not just a place where some entities just throw information at each other ("1+1?" "3!" "answer [accepted](https://stackoverflow.com/a/59164619/1428369)").
 
 - **GOOD** Building rapport. That's when a human connection is established and communication can happen. Downside: takes time and SO discourages it [("There's no chit-chat")](https://stackoverflow.com/tour). Upside: both feel better, you can ask for stuff and actually get it (e.g. the answer accepted)
 
