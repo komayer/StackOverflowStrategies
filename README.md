@@ -118,7 +118,7 @@ Not my business. I peddle tips, can't harm in any case (liability excluded).
 
 - **GOOD** Resilience. You may run into more or less patient contributors, also very much depending on the quality of your post. It might not be all that great in the beginning, which may provide a stingy learning experience. Persist, improve. [Formatting](https://stackoverflow.com/editing-help) makes a great deal of a difference. And always keep in mind: you're [not](https://meta.stackoverflow.com/questions/253100/why-do-people-scare-off-new-users?noredirect=1&lq=1) [alone](https://meta.stackoverflow.com/questions/251758/why-is-stack-overflow-so-negative-of-late).
 
-  If negativity pops up, I do recommend not to take any of it personal, not to identify single snappy comments as the soul of SO. Attempt to create posts that don't trigger anything in the most stressed out, grumpy and compulsive contributors except excellent answers (oh my god, what am I writing here?). But you might as well be well received. I kid you not.
+  If negativity pops up, I do recommend not to take any of it personal, not to identify single snappy comments as the soul of SO. Attempt to create posts that don't trigger anything in the most stressed out, grumpy and compulsive contributors except excellent answers (oh god, what am I writing here? Is it [Stockholm syndrome](https://en.wikipedia.org/wiki/Stockholm_syndrome)?). But you might as well be well received. I kid you not.
 
   It gives a sense of satisfaction to be able to sail the sea in any weather.
   
