@@ -82,7 +82,7 @@ Not my business. I peddle tips, can't harm in any case (liability excluded).
 
 - **LEGIT** Specialize, perhaps in a frequent topic that comes in many flavors and cases and can't be boiled down to *"duplicate of...single answer"*. [BasilBourque](https://stackoverflow.com/search?q=user:642706) made piles of rep with his Java Date/DateTime expertise for example, and [Andreas](https://stackoverflow.com/users/5221149/andreas) is the character encoding guy. Very hard to beat them on their home turf.
 
-- **LEGIT** Be a karma-whore. If you posted an answer and the OP signaled acceptance by commenting on the line of "thank you so much, very helpful" without accepting it, ask him if he/she/whatever could "consider to accept the answer by clicking the green check mark". Many new posters aren't aware of those formalities.
+- **LEGIT** Be a karma-whore. If you posted an answer and the OP signaled acceptance by commenting on the line of "thank you so much, very helpful" without accepting it, ask him if he/she/whatever could "consider to accept the answer by clicking the green check mark". Many new posters aren't aware of those formalities and the currency that keeps the game going.
 
 - **LEGIT** Don't reply to everybody. Some posters have the habit only to up-vote or accept, when their perceived problem is solved, which may be not the problem stated in the OP, not solvable at all, or solvable, but only in ways the OP can't understand. It is usually obvious when you look at the list of questions in their SO profile.
 
