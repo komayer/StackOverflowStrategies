@@ -94,7 +94,7 @@ Not my business. I peddle tips, can't harm in any case (liability excluded).
 
 - **LEGIT** Scavenge all over the place. If you manage to compile one complete answer from several fragmentary ones, that's actually legit [according to one founder](https://www.joelonsoftware.com/2008/09/15/stack-overflow-launches/) (or was so in 2008).
 
-- **GOOD** Become Eric Lippert. Telling a [story](https://stackoverflow.com/questions/6441218/can-a-local-variables-memory-be-accessed-outside-its-scope/6445794#6445794) that conveyed the issue/answer in the for of a simile yielded him >4750 up-votes. His style [inspired user Mystical](https://meta.stackoverflow.com/a/315705/1428369) to the [highest yielding answer](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902) on SO ever (>30940 up-votes, > 1600 bounty), adding illustrations to the approach. 
+- **GOOD** Become Eric Lippert. Telling a [story](https://stackoverflow.com/questions/6441218/can-a-local-variables-memory-be-accessed-outside-its-scope/6445794#6445794) that conveyed the issue/answer in the form of a simile yielded him >4750 up-votes. His style [inspired user Mystical](https://meta.stackoverflow.com/a/315705/1428369) to the [highest yielding answer](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902) on SO ever (>30940 up-votes, > 1600 bounty), adding illustrations to the approach. 
 
   That was up to 2012, didn't test what would happen today. If it still works and you mange to do it, you can start to look down your nose at FGITW.
 
